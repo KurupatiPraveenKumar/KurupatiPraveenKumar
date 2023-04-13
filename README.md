@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning MERN Stack Development<br>
+<br>🌱 I’m Fresher<br>
 
 
 ## 🌐 Socials:
